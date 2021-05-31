@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/splashlayout"
+    android:background="@color/white"
+    android:visibility="gone"
+    tools:context="com.jaspreetsingh.CovidTracker.SplashScreen">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_rawRes="@raw/cornasplashscreen"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+    <TextView
+        android:id="@+id/corona"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/bree_serif"
+        android:text="CORONA"
+        android:textColor="@color/pink"
+        android:textSize="50dp" />
+
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tracker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/bree_serif"
+        android:gravity="center"
+        android:text="TRACKER"
+        android:textColor="@color/pink"
+        android:textSize="30sp" />
+
+
+    <TextView
+        android:id="@+id/descplash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="@font/bree_serif"
+        android:gravity="center"
+        android:text="@string/descsplash"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+

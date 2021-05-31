@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">COVID - TRACKER</string>
+    <string name="confirm">Confirm</string>
+    <string name="Active">Active</string>
+    <string name="death">Death</string>
+    <string name="recov">Recovered</string>
+    <string name="test">Tests</string>
+    <string name="countryname">Country Name</string>
+    <string name="statename">State Name</string>
+    <string name="totalcases">Total Cases</string>
+    <string name="State">States Data</string>
+    <string name="headline">COVID - TRACKER</string>
+    <string name="skip_btn">SKIP</string>
+    <string name="washhands">Wash Your Hands</string>
+    <string name="lets_get_started">LETS GET STARTED</string>
+    <string name="washdesc">Clean your hands often.Use soap and water,or an alcohol-based hand rub.</string>
+    <string name="wearmask">Wear Mask</string>
+    <string name="maskdesc">Cover mouth and nose with mask &amp; no gaps between your face and the mask</string>
+    <string name="sanitizer">Safety Using Hand-Sanitizer</string>
+    <string name="sanitizerdesc">Rub the hand sanitizer all over your hands,making sure to get between your fingers and on the back
+    of your hands.</string>
+    <string name="vaccine">Get yourself vaccinated</string>
+    <string name="vaccinedesc">Time to take COVID-19 vaccine.Don\'t waste your time,
+        Checkout the guidelines issued by govt. of India regarding Vaccination today!</string>
+
+    <string name="descsplash">
+        Get live data for better decisions in an uncertain time.
+        Stay up-to-date with valuable coronavirus (COVID-19) data summarized by confirmed cases,testing ,deaths and recoveries
+    </string>
+    <string name="india">India</string>
+    <string name="_1234354">1234354</string>
+    <string name="_123">123</string>
+    <string name="updated_at_may_10_2021">Updated at May 10,2021</string>
+    <string name="todo">TODO</string>
+
+    <string name="_32">( +32 )</string>
+
+
+
+    <string name="_2423423">2423423</string>
+</resources>
